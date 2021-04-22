@@ -26,11 +26,14 @@
   </url>
   <url>
     <loc>http://moaps.portafolioefesz.org/fundamentos.html</loc>
-    <lastmod>2021-02-17</lastmod>
+    <lastmod>2021-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://moaps.portafolioefesz.org/images/moaps1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://moaps.portafolioefesz.org/images/67351-ocrvs6-90.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -197,7 +200,7 @@
   </url>
   <url>
     <loc>http://moaps.portafolioefesz.org/acerca-de.html</loc>
-    <lastmod>2021-02-16</lastmod>
+    <lastmod>2021-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

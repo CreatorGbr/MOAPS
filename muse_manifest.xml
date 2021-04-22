@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="moaps.portafolioefesz.org" resolutions="1x" timestamp="1613588182210">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="moaps.portafolioefesz.org" resolutions="1x" timestamp="1619118071226">
   <folder name="assets">
     <file name="diagrama-general---0221.pdf" crc="4218182121" seo="true" mt="1612825307000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_000.css" crc="389541112" ref="institución:competencias:c-inespecificas:formación-2:enfoques-teóricos:c-profesionales:atención-2:fundamentos-metodológicos:c-trabajo-intelectual:fundamentos:institución-2:formación-académica:análisis-de-la-situación:formación-evaluación:formación:programas-de-intervención:atención-evaluación:atención:evaluación:institución-evaluación"/>
-    <file name="master_00.css" crc="4058767274" ref="index:acerca-de"/>
+    <file name="master_00.css" crc="448194443" ref="index:acerca-de"/>
     <file name="instituci_n.css" crc="4142247260" ref="institución"/>
     <file name="competencias.css" crc="283440683" ref="competencias"/>
     <file name="c-inespecificas.css" crc="4142247260" ref="c-inespecificas"/>
@@ -16,10 +16,10 @@
     <file name="atenci_n-2.css" crc="4142247260" ref="atención-2"/>
     <file name="fundamentos-metodol_gicos.css" crc="4142247260" ref="fundamentos-metodológicos"/>
     <file name="c-trabajo-intelectual.css" crc="4142247260" ref="c-trabajo-intelectual"/>
-    <file name="fundamentos.css" crc="3969339734" ref="fundamentos"/>
+    <file name="fundamentos.css" crc="3794355965" ref="fundamentos"/>
     <file name="instituci_n-2.css" crc="4142247260" ref="institución-2"/>
     <file name="formaci_n-acad_mica.css" crc="472646865" ref="formación-académica"/>
-    <file name="acerca-de.css" crc="4051336705" ref="acerca-de"/>
+    <file name="acerca-de.css" crc="281205560" ref="acerca-de"/>
     <file name="an_lisis-de-la-situaci_n.css" crc="3954222611" ref="análisis-de-la-situación"/>
     <file name="formaci_n-evaluaci_n.css" crc="4142247260" ref="formación-evaluación"/>
     <file name="formaci_n.css" crc="4142247260" ref="formación"/>
@@ -42,29 +42,29 @@
   </folder>
   <folder name="images">
     <file name="moaps1.png" crc="4165399435" seo="true" ref="index:fundamentos:análisis-de-la-situación:programas-de-intervención:evaluación:competencias:enfoques-teóricos:fundamentos-metodológicos:formación-académica:formación:atención:institución:formación-2:atención-2:institución-2:formación-evaluación:atención-evaluación:institución-evaluación:c-inespecificas:c-profesionales:c-trabajo-intelectual:acerca-de">
-      <caption webpage="programas-de-intervención" alt=""/>
-      <caption webpage="enfoques-teóricos" alt=""/>
-      <caption webpage="institución-2" alt=""/>
-      <caption webpage="atención" alt=""/>
-      <caption webpage="c-profesionales" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="c-trabajo-intelectual" alt=""/>
+      <caption webpage="c-inespecificas" alt=""/>
       <caption webpage="institución-evaluación" alt=""/>
       <caption webpage="formación" alt=""/>
-      <caption webpage="fundamentos" alt=""/>
-      <caption webpage="análisis-de-la-situación" alt=""/>
-      <caption webpage="formación-evaluación" alt=""/>
-      <caption webpage="evaluación" alt=""/>
       <caption webpage="institución" alt=""/>
-      <caption webpage="competencias" alt=""/>
-      <caption webpage="atención-2" alt=""/>
+      <caption webpage="análisis-de-la-situación" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="formación-2" alt=""/>
-      <caption webpage="formación-académica" alt=""/>
       <caption webpage="fundamentos-metodológicos" alt=""/>
-      <caption webpage="c-inespecificas" alt=""/>
+      <caption webpage="atención" alt=""/>
+      <caption webpage="competencias" alt=""/>
+      <caption webpage="c-profesionales" alt=""/>
       <caption webpage="acerca-de" alt=""/>
+      <caption webpage="enfoques-teóricos" alt=""/>
+      <caption webpage="formación-académica" alt=""/>
+      <caption webpage="evaluación" alt=""/>
+      <caption webpage="atención-2" alt=""/>
+      <caption webpage="institución-2" alt=""/>
       <caption webpage="atención-evaluación" alt=""/>
+      <caption webpage="fundamentos" alt=""/>
+      <caption webpage="programas-de-intervención" alt=""/>
+      <caption webpage="formación-evaluación" alt=""/>
     </file>
     <file name="1.png" crc="3967050120" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -74,32 +74,35 @@
       <caption webpage="acerca-de" alt=""/>
     </file>
     <file name="000.png" crc="4062419050" ref="index:fundamentos:análisis-de-la-situación:programas-de-intervención:evaluación:competencias:enfoques-teóricos:fundamentos-metodológicos:formación-académica:formación:atención:institución:formación-2:atención-2:institución-2:formación-evaluación:atención-evaluación:institución-evaluación:c-inespecificas:c-profesionales:c-trabajo-intelectual:acerca-de">
-      <caption webpage="programas-de-intervención" alt=""/>
-      <caption webpage="enfoques-teóricos" alt=""/>
-      <caption webpage="institución-2" alt=""/>
-      <caption webpage="atención" alt=""/>
-      <caption webpage="c-profesionales" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="c-trabajo-intelectual" alt=""/>
+      <caption webpage="c-inespecificas" alt=""/>
       <caption webpage="institución-evaluación" alt=""/>
       <caption webpage="formación" alt=""/>
-      <caption webpage="fundamentos" alt=""/>
-      <caption webpage="análisis-de-la-situación" alt=""/>
-      <caption webpage="formación-evaluación" alt=""/>
-      <caption webpage="evaluación" alt=""/>
       <caption webpage="institución" alt=""/>
-      <caption webpage="competencias" alt=""/>
-      <caption webpage="atención-2" alt=""/>
+      <caption webpage="análisis-de-la-situación" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="formación-2" alt=""/>
-      <caption webpage="formación-académica" alt=""/>
       <caption webpage="fundamentos-metodológicos" alt=""/>
-      <caption webpage="c-inespecificas" alt=""/>
+      <caption webpage="atención" alt=""/>
+      <caption webpage="competencias" alt=""/>
+      <caption webpage="c-profesionales" alt=""/>
       <caption webpage="acerca-de" alt=""/>
+      <caption webpage="enfoques-teóricos" alt=""/>
+      <caption webpage="formación-académica" alt=""/>
+      <caption webpage="evaluación" alt=""/>
+      <caption webpage="atención-2" alt=""/>
+      <caption webpage="institución-2" alt=""/>
       <caption webpage="atención-evaluación" alt=""/>
+      <caption webpage="fundamentos" alt=""/>
+      <caption webpage="programas-de-intervención" alt=""/>
+      <caption webpage="formación-evaluación" alt=""/>
+    </file>
+    <file name="67351-ocrvs6-90.jpg" crc="3796786245" seo="true" ref="fundamentos">
+      <caption webpage="fundamentos" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="460467586" seo="true" mt="1613512650221" redirect="true"/>
-  <file name="fundamentos.html" crc="370322840" seo="true" mt="1613587956864" redirect="true"/>
+  <file name="fundamentos.html" crc="424480184" seo="true" mt="1619118033523" redirect="true"/>
   <file name="análisis-de-la-situación.html" crc="93473133" seo="true" mt="1611775034328" redirect="true"/>
   <file name="programas-de-intervención.html" crc="224266290" seo="true" mt="1611775034328" redirect="true"/>
   <file name="evaluación.html" crc="3867791996" seo="true" mt="1611775034328" redirect="true"/>
@@ -119,5 +122,5 @@
   <file name="c-inespecificas.html" crc="468285038" seo="true" mt="1611775034328" redirect="true"/>
   <file name="c-profesionales.html" crc="3904508309" seo="true" mt="1611775034328" redirect="true"/>
   <file name="c-trabajo-intelectual.html" crc="401816622" seo="true" mt="1611775034328" redirect="true"/>
-  <file name="acerca-de.html" crc="296503027" seo="true" mt="1613512729525" redirect="true"/>
+  <file name="acerca-de.html" crc="3886347174" seo="true" mt="1619116591865" redirect="true"/>
 </manifest>
