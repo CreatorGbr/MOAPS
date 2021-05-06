@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://moaps.portafolioefesz.org/index.html</loc>
-    <lastmod>2021-04-22</lastmod>
+    <lastmod>2021-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>http://moaps.portafolioefesz.org/atenci%C3%B3n.html</loc>
-    <lastmod>2021-04-22</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -26,19 +26,16 @@
   </url>
   <url>
     <loc>http://moaps.portafolioefesz.org/fundamentos.html</loc>
-    <lastmod>2021-04-22</lastmod>
+    <lastmod>2021-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://moaps.portafolioefesz.org/images/moaps1.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://moaps.portafolioefesz.org/images/67351-ocrvs6-90.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://moaps.portafolioefesz.org/an%C3%A1lisis-de-la-situaci%C3%B3n.html</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -74,16 +71,19 @@
   </url>
   <url>
     <loc>http://moaps.portafolioefesz.org/enfoques-te%C3%B3ricos.html</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://moaps.portafolioefesz.org/images/moaps1.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://moaps.portafolioefesz.org/images/or4e2q0.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://moaps.portafolioefesz.org/fundamentos-metodol%C3%B3gicos.html</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -92,20 +92,26 @@
   </url>
   <url>
     <loc>http://moaps.portafolioefesz.org/formaci%C3%B3n-acad%C3%A9mica.html</loc>
-    <lastmod>2021-02-17</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://moaps.portafolioefesz.org/images/moaps1.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://moaps.portafolioefesz.org/images/video-crop-u2160.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://moaps.portafolioefesz.org/formaci%C3%B3n.html</loc>
-    <lastmod>2021-04-22</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://moaps.portafolioefesz.org/images/moaps1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://moaps.portafolioefesz.org/images/67351-ocrvs6-90.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -119,16 +125,19 @@
   </url>
   <url>
     <loc>http://moaps.portafolioefesz.org/instituci%C3%B3n.html</loc>
-    <lastmod>2021-04-22</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://moaps.portafolioefesz.org/images/moaps1.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://moaps.portafolioefesz.org/images/carnet.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://moaps.portafolioefesz.org/formaci%C3%B3n-2.html</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -137,7 +146,7 @@
   </url>
   <url>
     <loc>http://moaps.portafolioefesz.org/atenci%C3%B3n-2.html</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -146,11 +155,14 @@
   </url>
   <url>
     <loc>http://moaps.portafolioefesz.org/instituci%C3%B3n-2.html</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://moaps.portafolioefesz.org/images/moaps1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://moaps.portafolioefesz.org/images/video-crop-u2247.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -200,7 +212,7 @@
   </url>
   <url>
     <loc>http://moaps.portafolioefesz.org/acerca-de.html</loc>
-    <lastmod>2021-04-22</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
